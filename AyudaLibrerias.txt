@@ -11,3 +11,6 @@ velocity_Data = [0, 10, 20, 30, 40, 50]
  
 #pip install pipreqs Asi se crea
 
+#pip install -r requirements.txt --upgrade Actualiza a las versiones mas recientes
+
+
