@@ -100,3 +100,14 @@ lista_de_caracteres = list(cadena)
 cadena_nueva = ''.join(lista_de_caracteres)
 # Convierte una lista en una cadena
 # 'Hola'
+
+#Creacion de list comprehension para determinar 100 numeros
+formule_Velocity=[i for i in range(1,101)]
+
+#Me permite redondear los decimales de una lista siendo el primer parametro el iterador y el segundo el numero
+
+formule_Velocity=[round(elemento,5) for elemento in formule_Velocity]
+
+velocity_ten=formule_Velocity[:30]
+
+#Ver los primeros 30
