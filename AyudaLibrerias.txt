@@ -1,13 +1,6 @@
-import matplotlib.pyplot as plt
-
-plt.figure(figsize=[10,8]) #Dimensiones en pulgadas
-#Data 1
-time_Data = [0, 1, 2, 3, 4, 5]
-#Data 2
-velocity_Data = [0, 10, 20, 30, 40, 50]
-
 #pip install -r requirements.txt Para abrir el proyecto en otro pc
-#pip freeze > requirements.txt Actualizar
+
+#pip freeze > requirements.txt Actualiza el documento requirements
  
 #pip install pipreqs Asi se crea
 
